@@ -1,0 +1,84 @@
+2024-01-05 16:17:25 Rota chamada com o método POST
+2024-01-05 16:17:25 body ->{"idTransaction":"184c5faf-2225-41cc-8b20-bb4871d35da2","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-05 16:17:52 Rota chamada com o método POST
+2024-01-05 16:17:52 body ->{"idTransaction":"522e0cf8-1002-4d32-a70f-576fb5f8ad47","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-05 16:18:55 Rota chamada com o método POST
+2024-01-05 16:18:55 body ->{"idTransaction":"5fcf7d6b-1683-4154-a2ea-350050b29f27","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-05 16:19:19 Rota chamada com o método POST
+2024-01-05 16:19:19 body ->{"idTransaction":"184c5faf-2225-41cc-8b20-bb4871d35da2","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-05 16:19:46 Rota chamada com o método POST
+2024-01-05 16:19:46 body ->{"idTransaction":"184c5faf-2225-41cc-8b20-bb4871d35da2","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-05 16:19:46 externalReference - 184c5faf-2225-41cc-8b20-bb4871d35da2
+2024-01-05 16:19:46 status - PAID_OUT
+2024-01-05 16:21:00 Rota chamada com o método POST
+2024-01-05 16:21:00 body ->{"idTransaction":"184c5faf-2225-41cc-8b20-bb4871d35da2","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-05 16:21:00 externalReference - 184c5faf-2225-41cc-8b20-bb4871d35da2
+2024-01-05 16:21:00 status - PAID_OUT
+2024-01-05 16:28:57 Rota chamada com o método POST
+2024-01-05 16:28:57 body ->{"idTransaction":"4d4ffe5e-297e-4d9b-8de2-477442cd7230","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-05 16:28:57 externalReference - 4d4ffe5e-297e-4d9b-8de2-477442cd7230
+2024-01-05 16:28:57 status - PAID_OUT
+2024-01-05 16:32:36 Rota chamada com o método POST
+2024-01-05 16:32:36 body ->{"idTransaction":"a4db457e-3ac1-4c19-85e2-b3da4b17a14a","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-05 16:32:36 externalReference - a4db457e-3ac1-4c19-85e2-b3da4b17a14a
+2024-01-05 16:32:36 status - PAID_OUT
+2024-01-05 16:33:40 Rota chamada com o método POST
+2024-01-05 16:33:40 body ->{"idTransaction":"9e0c55fc-4b4d-4c43-bb2f-1880bb0c9e44","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-05 16:33:40 externalReference - 9e0c55fc-4b4d-4c43-bb2f-1880bb0c9e44
+2024-01-05 16:33:40 status - PAID_OUT
+2024-01-05 16:35:45 Rota chamada com o método POST
+2024-01-05 16:35:45 body ->{"idTransaction":"18212742-52dd-4d79-a7b9-0f951273907a","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-05 16:35:45 externalReference - 18212742-52dd-4d79-a7b9-0f951273907a
+2024-01-05 16:35:45 status - PAID_OUT
+2024-01-05 16:36:49 Rota chamada com o método POST
+2024-01-05 16:36:49 body ->{"idTransaction":"2d11b4fc-350f-499f-a93f-4d54433f9b63","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-05 16:36:49 externalReference - 2d11b4fc-350f-499f-a93f-4d54433f9b63
+2024-01-05 16:36:49 status - PAID_OUT
+2024-01-10 10:51:23 Rota chamada com o método POST
+2024-01-10 10:51:23 body ->{"idTransaction":"951f1f0a-99e1-4e7f-ba2b-7bb1a8724577","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-10 10:51:23 externalReference - 951f1f0a-99e1-4e7f-ba2b-7bb1a8724577
+2024-01-10 10:51:23 status - PAID_OUT
+2024-01-10 11:19:07 Rota chamada com o método POST
+2024-01-10 11:19:07 body ->{"idTransaction":"0268a08d-0015-4115-b496-69c41e6e06c3","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-10 11:19:07 externalReference - 0268a08d-0015-4115-b496-69c41e6e06c3
+2024-01-10 11:19:07 status - PAID_OUT
+2024-01-10 11:49:14 Rota chamada com o método POST
+2024-01-10 11:49:14 body ->{"idTransaction":"7455331e-bf48-4b0d-9a16-e7a25d2904c0","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-10 11:49:14 externalReference - 7455331e-bf48-4b0d-9a16-e7a25d2904c0
+2024-01-10 11:49:14 status - PAID_OUT
+2024-01-10 17:52:36 Rota chamada com o método POST
+2024-01-10 17:52:36 body ->{"idTransaction":"e03a4142-1fe1-403e-ad1e-2c8172b67279","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-10 17:52:36 externalReference - e03a4142-1fe1-403e-ad1e-2c8172b67279
+2024-01-10 17:52:36 status - PAID_OUT
+2024-01-10 19:29:59 Rota chamada com o método POST
+2024-01-10 19:29:59 body ->{"idTransaction":"d62a828a-d2c7-4ff4-af97-6165b134793b","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-10 19:29:59 externalReference - d62a828a-d2c7-4ff4-af97-6165b134793b
+2024-01-10 19:29:59 status - PAID_OUT
+2024-01-10 19:30:29 Rota chamada com o método POST
+2024-01-10 19:30:29 body ->{"idTransaction":"f44dde6d-28cc-4069-923c-b4bf5f4d16ba","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-10 19:30:29 externalReference - f44dde6d-28cc-4069-923c-b4bf5f4d16ba
+2024-01-10 19:30:29 status - PAID_OUT
+2024-01-10 19:31:00 Rota chamada com o método POST
+2024-01-10 19:31:00 body ->{"idTransaction":"96928902-af28-4bb7-a539-5de696bd17fb","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-10 19:31:00 externalReference - 96928902-af28-4bb7-a539-5de696bd17fb
+2024-01-10 19:31:00 status - PAID_OUT
+2024-01-10 20:23:38 Rota chamada com o método POST
+2024-01-10 20:23:38 body ->{"idTransaction":"84cac373-21f1-4111-8a0d-cdea86aadfc6","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-10 20:23:38 externalReference - 84cac373-21f1-4111-8a0d-cdea86aadfc6
+2024-01-10 20:23:38 status - PAID_OUT
+2024-01-10 21:28:46 Rota chamada com o método POST
+2024-01-10 21:28:46 body ->{"idTransaction":"a7ecf2fd-cc7a-447d-bb28-a70a1c666e30","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-10 21:28:46 externalReference - a7ecf2fd-cc7a-447d-bb28-a70a1c666e30
+2024-01-10 21:28:46 status - PAID_OUT
+2024-01-10 21:28:46 Rota chamada com o método POST
+2024-01-10 21:28:46 body ->{"idTransaction":"1e044328-e7ea-43f7-932d-772fa3236978","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-10 21:28:46 externalReference - 1e044328-e7ea-43f7-932d-772fa3236978
+2024-01-10 21:28:46 status - PAID_OUT
+2024-01-10 21:28:46 Rota chamada com o método POST
+2024-01-10 21:28:46 body ->{"idTransaction":"b244072d-7924-4dc2-b3be-21f4861dde24","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-10 21:28:46 externalReference - b244072d-7924-4dc2-b3be-21f4861dde24
+2024-01-10 21:28:46 status - PAID_OUT
+2024-01-10 21:28:47 Rota chamada com o método POST
+2024-01-10 21:28:47 body ->{"idTransaction":"f7aa64c7-c45c-4718-b0ee-d3c4bb8d60b4","typeTransaction":"PIX_CASHOUT","statusTransaction":"PAID_OUT","acquirer_message":null,"acquirer_return_code":null}
+2024-01-10 21:28:47 externalReference - f7aa64c7-c45c-4718-b0ee-d3c4bb8d60b4
+2024-01-10 21:28:47 status - PAID_OUT

@@ -1,0 +1,220 @@
+[10-Jan-2024 10:48:41 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 10:48:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 11:17:51 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 11:17:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 11:46:40 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 11:46:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 11:48:21 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 11:48:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 17:26:08 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 17:26:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 18:10:10 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 18:10:10 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 18:22:28 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 18:22:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 18:39:10 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 18:39:10 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 19:20:43 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 19:20:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 20:04:04 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 20:04:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 20:15:55 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 20:15:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 20:47:55 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 20:47:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 21:09:53 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 21:09:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 21:13:35 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 21:13:35 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 21:14:45 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 21:14:45 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 21:35:32 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 21:35:32 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 22:14:23 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 22:14:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 22:49:46 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 22:49:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 22:57:46 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 22:57:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 23:08:57 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[10-Jan-2024 23:08:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 00:05:33 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 00:05:33 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 00:29:50 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 00:29:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 00:34:08 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 00:34:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 00:52:54 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 00:52:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 00:57:34 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 00:57:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 00:58:09 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 00:58:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 02:14:38 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 02:14:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 02:17:11 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 02:17:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 02:54:27 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 02:54:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 06:31:14 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 06:31:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 07:01:20 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 07:01:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 07:41:36 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 07:41:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 09:19:18 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 09:19:18 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 09:35:14 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 09:35:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 10:12:55 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 10:12:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 10:21:04 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 10:21:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 10:27:36 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 10:27:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 11:01:19 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 11:01:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 11:05:30 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 11:05:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 11:07:59 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 11:07:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 11:13:09 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 11:13:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 11:23:04 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 11:23:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 11:30:19 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 11:30:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 11:32:41 America/Sao_Paulo] PHP Notice:  Undefined variable: saldoStmt in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
+[11-Jan-2024 11:32:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/subwayoriginal/public_html/saque/process-saque.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/subwayoriginal/public_html/saque/process-saque.php on line 68
